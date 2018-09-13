@@ -1,8 +1,9 @@
-# code-snippets
+# Useful Code Snippets
 
 Random bits of code that I re-use a lot or don't want to forget.
 
-Currently including:
+### Currently including
+
 - Python
   - Pandas
 - SQL
